@@ -10,6 +10,8 @@
   "isShowFacebook": true,
   "facebookThumbnail": "",
   "facebookText": "Like Us On Facebook",
-"redirectUrl":"https://www.facebook.com/PharaohMod",
-"updaify_url":"https://nerbly.com/updatify/apiv1/files/PharaohPatcher_153051015_1HHrAHPNdeZEUJhHwTGocRAqOR62.json"
+  "redirectUrl": "https://www.facebook.com/PharaohMod",
+  "updaify_url": "https://nerbly.com/updatify/apiv1/files/PharaohPatcher_153051015_1HHrAHPNdeZEUJhHwTGocRAqOR62.json",
+  "skin_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
+  "recall_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec"
 }
