@@ -14,5 +14,6 @@
   "redirectUrl": "https://www.facebook.com/PharaohMod",
   "updatify_api": "https://nerbly.com/updatify/apiv1/files/PharaohPatcher_153051015_1HHrAHPNdeZEUJhHwTGocRAqOR62.json",
   "skin_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
-  "recall_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec"
+  "recall_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
+"alert_api":"https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec"
 }
