@@ -2,7 +2,7 @@
   "isShowSkins": true,
   "skinsThumbnail": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Skins_Thumbnail.jpg",
   "skinsText": "Unlock Skins",
-  "isShowRecalls": true,
+  "isShowRecalls": false,
   "recallsThumbnail": "https://i.ytimg.com/vi/D634NyIy0P0/maxresdefault.jpg",
   "recallsText": "Unlock Recalls",
   "isShowAd": true,
