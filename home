@@ -7,13 +7,21 @@
   "recallsText": "",
   "isShowAd": true,
   "adUnit": "201515966",
-"showByClick":"3",
+  "showByClick": "3",
   "isShowFacebook": true,
   "facebookThumbnail": "https://i.imgur.com/roCDgai.jpg",
   "facebookText": "TikTokမှာ followလုပ်ပေးပါအုံး",
   "redirectUrl": "https://vm.tiktok.com/ZSeEXovbL/",
   "updatify_api": "https://nerbly.com/updatify/apiv1/files/PharaohPatcher_153051015_1HHrAHPNdeZEUJhHwTGocRAqOR62.json",
   "skin_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
+  "skin_to_akin_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
   "recall_api": "https://script.google.com/macros/s/AKfycbxcu7-7C35I4qwjDWHdKIH27crlzCKfKiKgzc4dZRg-lVwuJn9T/exec",
-"alert_api":"https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec"
+  "alert_api": "https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec",
+  "map_api": "https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec",
+  "isShowSkinToSkin": false,
+  "skintoskinThumbnail": "",
+  "skintoskinText": "",
+  "isShowMap": false,
+  "mapThumbnail": "",
+  "mapText": ""
 }
