@@ -5,7 +5,7 @@
   "isShowRecalls": false,
   "recallsThumbnail": "",
   "recallsText": "",
-  "isShowAd": true,
+  "isShowAd": false,
   "adUnit": "201515966",
 "showByClick":"3",
   "isShowFacebook": true,
