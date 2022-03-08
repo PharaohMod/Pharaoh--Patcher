@@ -18,7 +18,7 @@
   "recall_api": "https://script.google.com/macros/s/AKfycbzcb9mXS92M_BqStRwX9EGNdzlyZKqtxiJtgkbTFqAfkSVFBvI/exec",
   "alert_api": "https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec",
   "map_api": "https://script.google.com/macros/s/AKfycby3pCbxVbf-IkjMsvW518bOe4awv5w5mn_jtFgvRCEvmrjR6J7b/exec",
-  "isShowSkinToSkin": true,
+  "isShowSkinToSkin": false,
   "skintoskinThumbnail": "https://i.imgur.com/gpRR0PL.jpg",
   "skintoskinText": "Upgrade Skins",
   "isShowMap": false,
