@@ -5,7 +5,7 @@
   "isShowRecalls": true,
   "recallsThumbnail": "https://i.ytimg.com/vi/D634NyIy0P0/maxresdefault.jpg",
   "recallsText": "Unlock Recalls",
-  "isShowAd": false,
+  "isShowAd": true,
   "adUnit": "201515966",
   "showByClick": "3",
   "isShowFacebook": false,
