@@ -1,4 +1,5 @@
 {"hint" : "Subscribe YouTube channel to unlock",
 "btn_name" : "Subscribe to Unlock",
-"redirect" : "https://www.youtube.com/c/KaungKaung"
+"redirect" : "https://www.youtube.com/c/KaungKaung",
+"isShowUnlock" : true
 }
