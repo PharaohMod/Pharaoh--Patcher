@@ -21,7 +21,7 @@
   "isShowSkinToSkin": true,
   "skintoskinThumbnail": "https://i.imgur.com/jVQXjVN.jpg",
   "skintoskinText": "Upgrade Skins",
-  "isShowMap": true,
+  "isShowMap": false,
   "mapThumbnail": "https://i.imgur.com/zKN1O9A.jpg",
   "mapText": "Custom Maps"
 }
